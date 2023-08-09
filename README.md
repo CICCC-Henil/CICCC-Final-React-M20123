@@ -51,6 +51,8 @@ Recipes can be filtered by ingredients, cuisine, diet and intolerances.
 
 * A wireframe is provided within the repository.
 
+![wireframe](/CICCC-React-Final.png)
+
 * You can refer for design and UI components from:
   - Dribbble
   - Wix
