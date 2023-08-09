@@ -6,8 +6,8 @@ Recipes can be filtered by ingredients, cuisine, diet and intolerances.
 
 ## Dates
 
-Aug 11, 2023 - Project Kickoff
-Aug 28, 2023 - Project Presentation
+ - Aug 11, 2023 - Project Kickoff
+ - Aug 28, 2023 - Project Presentation
 
 ## Features
 
@@ -34,8 +34,7 @@ Aug 28, 2023 - Project Presentation
 
 ## Database
 
-- Local Storage
-  Fridge items and selected recipes are stored in the local storage of the browser.
+- Fridge items and selected recipes are stored in the Local Storage of the browser.
 
 ## Authentication
 
